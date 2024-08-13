@@ -64,6 +64,13 @@ li {
     font-size: 16px;
     font-style: semi-bold
 }
+.flex-area {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+}
+
+
 
 .grid {
     display: grid;
@@ -78,6 +85,9 @@ li {
     grid-area: project-one;
     background-color: yellow;
 }
+
+
+
 @media only all and (max-width: 1000px) {
     body{
         background-color: white;
