@@ -92,3 +92,7 @@ image {
     box-align: center;
     background: #F0F4F3;
   }
+.box {
+    display: flex;
+    justify-content: space-between;
+}
