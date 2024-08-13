@@ -4,24 +4,27 @@ p {
   margin: 0px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
-  font-size: 24px;
-  font-style: italic
+  font-size: 18px;
+  font-style: italic;
+  Color: #777777
 }
 h1 {
   padding: 0px;
   margin: 0px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'POPPINS', sans-serif;
   font-weight: 500;
   font-size: 60px;
-  font-style: bold
+  font-style: bold;
+  Color: #383D40;
 }
 h2 {
   padding: 0px;
   margin: 0px;
   font-family: 'Poppins', sans-serif;
-  font-weight: 500;
-  font-size: 40px;
-  font-style: bold
+  font-weight: 700;
+  font-size: 24px;
+  font-style: bold;
+  color: #0468BF
 }
 a {
   padding: 0px;
@@ -42,7 +45,7 @@ h4 {
   margin: 0px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
-  font-size: 18px;
+  font-size: 16px;
   font-style: bold
 }
 
@@ -52,4 +55,12 @@ h4 {
   margin: 10px;
   padding: 10px;
   width: 300px;
+}
+li {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    font-style: semi-bold
 }
