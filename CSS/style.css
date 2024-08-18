@@ -68,11 +68,15 @@ li {
     display: flex;
     flex-direction: row;
     width: 70%;
+    background-color: pink;
 }
 
 .Profile-photo img {
     width: 100%;
     max-height: 500px;
+}
+.flex-section {
+    text-align: center;
 }
 
 .grid {
